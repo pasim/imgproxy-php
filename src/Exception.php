@@ -1,3 +1,6 @@
+/**
+* Exception class
+*/
 <?php
 
 namespace Imgproxy;
